@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background-color: rgb(126, 124, 124);
+}
+
+body h1 {
+  font-size: 46px;
+  font-family: fantasy;
+}
